@@ -1,0 +1,199 @@
+    1  sudo /Applications/Install\ macOS\ Mojave.app/Contents/Resources/createinstallmedia --volume /Volumes/ADATA\ UFD/
+    2  pip install scrapy
+    3  pip3 install scrapy
+    4  pip3 install shub
+    5  pip3 install scrapy
+    6  cd Documents
+    7  scrapy startproject internship
+    8  scrapy
+    9  pip3 install scrapy
+   10  pip3 install --upgrade pip
+   11  cd Internship/
+   12  scrapy
+   13  scrapy startproject internship
+   14  xcode-select --install
+   15  pip install scrapy --upgrade
+   16  pip3 install scrapy --upgrade
+   17  python3
+   18  echo $PATH
+   19  PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/share/python
+   20  echo $PATH
+   21  scrapy startproject internship
+   22  python
+   23  python3
+   24  echo $PATH
+   25  PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/bin/pythonw
+   26  scrapy startproject internship
+   27  python3
+   28  python3 -v
+   29  PATH=/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Library/Frameworks/Python.framework/Versions/3.7/bin/
+   30  scrapy startproject internship
+   31  cd Documents
+   32  cd ..
+   33  cd /Users/egor/Documents/
+   34  scrapy startproject Internship
+   35  cd Internship/
+   36  scrapy crawl pycoder
+   37  git
+   38  git clone https://github.com/Divinil001/parser-educational-courses
+   39  cd ..
+   40  git clone https://github.com/Divinil001/parser-educational-courses
+   41  cd parser-educational-courses/
+   42  git config user.name dzekegor
+   43  git config user.email gubanov.egor2010@yandex.ru
+   44  git status
+   45  scrapy startproject parser
+   46  scrapy startproject parser-educational-courses
+   47  scrapy startproject parser_educational_courses
+   48  git add parser_educational_courses/
+   49  git commit
+   50  git branch dzekegor
+   51  git status
+   52  git branch
+   53  git pull
+   54  git commit
+   55  git push 
+   56  git push dzekegor
+   57  git remote
+   58  git push origin dzekegor
+   59  git pull
+   60  git remote -v
+   61  git branch
+   62  git checkout dzekegor
+   63  git commit
+   64  git status
+   65  git add parser_educational_courses/
+   66  git commit
+   67  git add parser_educational_courses/parser_educational_courses/spiders/
+   68  git commit
+   69  scrapy startproject parser_educational_courses
+   70  git commit
+   71  git add parser_educational_courses/parser_educational_courses/
+   72  git add parser_educational_courses/
+   73  git commit
+   74  git push origin dzekegor
+   75  git add parser_educational_courses/parser_educational_courses/
+   76  git commit
+   77  git push origin dzekegor
+   78  scrapy crawl pycoder
+   79  scrapy
+   80  cd ..
+   81  cd parser-educational-courses/
+   82  scrapy crawl pycoder
+   83  cd parser_educational_courses/
+   84  scrapy crawl pycoder
+   85  scrapy crawl metu
+   86  pip3 install bootstrap
+   87  pip3 install bs4
+   88  scrapy crawl metu
+   89  scrapy crawl ljubljana
+   90  scrapy crawl ljubljana
+   91  scrapy crawl ljubljana
+   92  scrapy crawl ljubljana
+   93  scrapy crawl ljubljana
+   94  scrapy crawl ljubljana
+   95  scrapy crawl ljubljana
+   96  scrapy crawl ljubljana
+   97  scrapy crawl ljubljana
+   98  scrapy crawl ljubljana
+   99  scrapy crawl ljubljana
+  100  scrapy crawl ljubljana
+  101  scrapy crawl ljubljana
+  102  scrapy crawl ljubljana
+  103  scrapy crawl ljubljana
+  104  scrapy crawl ljubljana
+  105  scrapy crawl ljubljana
+  106  scrapy crawl ljubljana
+  107  scrapy crawl ljubljana
+  108  scrapy crawl ljubljana
+  109  scrapy crawl ljubljana
+  110  scrapy crawl ljubljana
+  111  scrapy crawl ljubljana
+  112  scrapy crawl ljubljana
+  113  scrapy crawl ljubljana
+  114  scrapy crawl ljubljana
+  115  scrapy crawl ljubljana
+  116  scrapy crawl ljubljana
+  117  scrapy crawl ljubljana
+  118  scrapy crawl ljubljana
+  119  scrapy crawl ljubljana
+  120  scrapy crawl ljubljana
+  121  scrapy crawl ljubljana
+  122  scrapy crawl ljubljana
+  123  scrapy crawl ljubljana
+  124  scrapy crawl ljubljana
+  125  scrapy crawl ljubljana
+  126  scrapy crawl ljubljana
+  127  scrapy crawl ljubljana
+  128  scrapy crawl ljubljana
+  129  scrapy crawl ljubljana
+  130  scrapy crawl ljubljana
+  131  scrapy crawl ljubljana
+  132  scrapy crawl ljubljana
+  133  scrapy crawl ljubljana
+  134  scrapy crawl ljubljana
+  135  scrapy crawl ljubljana
+  136  scrapy crawl ljubljana
+  137  scrapy crawl ljubljana
+  138  scrapy crawl ljubljana
+  139  scrapy crawl ljubljana
+  140  scrapy crawl ljubljana
+  141  scrapy crawl ljubljana
+  142  scrapy crawl ljubljana
+  143  scrapy crawl ljubljana
+  144  scrapy crawl ljubljana
+  145  scrapy crawl ljubljana
+  146  scrapy crawl ljubljana
+  147  scrapy crawl ljubljana
+  148  scrapy crawl ljubljana
+  149  scrapy crawl ljubljana
+  150  scrapy crawl ljubljana
+  151  scrapy crawl ljubljana
+  152  scrapy crawl ljubljana
+  153  scrapy crawl ljubljana
+  154  cd Documents
+  155  cd parser-educational-courses/
+  156  cd parser_educational_courses/
+  157  scrapy crawl ljubljana
+  158  scrapy crawl ljubljana
+  159  scrapy crawl ljubljana
+  160  scrapy crawl ljubljana
+  161  cd Documents
+  162  cd parser_educational_courses/
+  163  cd parser-educational-courses/
+  164  cd parser_educational_courses/
+  165  scrapy crawl ljubljana
+  166  cd Documents
+  167  cd parser-educational-courses/
+  168  cd parser_educational_courses/
+  169  scrapy crawl ljubljana
+  170  git clone https://github.com/Divinil001/parser-educational-courses
+  171  cd parser-educational-courses/
+  172  scrapy crawl ljubljana
+  173  cd cd exchange_program/
+  174  cd exchange_program/
+  175  cd cd exchange_program/
+  176  scrapy crawl ljubljana
+  177  git commit
+  178  git push
+  179  cd ..
+  180  git add exchange_program/
+  181  git commit
+  182  git push origin dzekegor
+  183  git checkout dzekegor
+  184  git push origin dzekegor
+  185  git add exchange_program/
+  186  git commit
+  187  git add exchange_program/
+  188  git commit
+  189  git push origin dzekegor
+  190  mkdir ~/week1
+  191  cd week1
+  192  ls /usr/bin
+  193  ls -rX /usr/bin
+  194  ls -rx /usr/bin
+  195  ls -rx /usr/bin | grep gcc
+  196  cat ls -rx /usr/bin | grep gcc > ~/week1/ex1.txt
+  197  ls -rx /usr/bin | grep gcc > ~/week1/ex1.txt
+  198  cat ex1.txt
+  199  history > ex2.txt
